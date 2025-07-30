@@ -12,7 +12,6 @@
 - [Key Findings & Results](#key-findings--results)
 - [Tools & Technologies](#tools--technologies)
 - [How to Run the Project](#how-to-run-the-project)
-- [Future Enhancements](#future-enhancements)
 - [Contact](#contact)
 
 ---
@@ -119,10 +118,9 @@ To replicate and run this data integration pipeline on your local machine, follo
 2.  **Clone the Repository:**
     * First, fork this repository (if you're contributing) or clone it:
         ```bash
-        git clone [https://github.com/your-username/health_informatics_project.git](https://github.com/your-username/health_informatics_project.git)
+        git clone [https://github.com/satyanarayana-Arikati/health_informatics_project.git](https://github.com/satyanarayana-Arikati/health_informatics_project.git)
         cd health_informatics_project
         ```
-        *(Note: You'll replace `https://github.com/your-username/health_informatics_project.git` with your actual GitHub repo URL once it's created.)*
 
 3.  **Install Dependencies:**
     * Install the required Python libraries:
